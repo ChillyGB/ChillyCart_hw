@@ -64,7 +64,7 @@
       39,
       40
     ],
-    "visible_layers": "003ff3f_80000001",
+    "visible_layers": "001f00f_80000001",
     "zone_display_mode": 0
   },
   "git": {
@@ -74,7 +74,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "picocart.kicad_prl",
+    "filename": "ChillyCart.kicad_prl",
     "version": 3
   },
   "project": {
