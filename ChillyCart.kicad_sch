@@ -7653,8 +7653,8 @@
 		(uuid "153a55e7-1903-456e-a8c5-a94c8193d68c")
 	)
 	(no_connect
-		(at 367.03 116.84)
-		(uuid "24f9e3fc-3ebf-4257-b749-dbdaba022eb0")
+		(at 367.03 101.6)
+		(uuid "155fedaa-6151-4eb1-a250-294a5c2b5fbf")
 	)
 	(no_connect
 		(at 236.22 259.08)
@@ -7673,24 +7673,24 @@
 		(uuid "688f7ddf-0c26-4353-bcf6-a9b70fbd561e")
 	)
 	(no_connect
-		(at 367.03 119.38)
-		(uuid "790eb8a7-aa20-47dd-a019-8a49607d3991")
+		(at 387.35 101.6)
+		(uuid "70c89511-3787-4aab-b7aa-5056f32710ef")
+	)
+	(no_connect
+		(at 387.35 104.14)
+		(uuid "7829ad9f-07fc-44ad-901d-616f4e642826")
 	)
 	(no_connect
 		(at 158.75 254)
 		(uuid "82900620-3205-4ec4-8fa4-c10d5fa08d6e")
 	)
 	(no_connect
-		(at 387.35 119.38)
-		(uuid "8ba47f85-9259-4fbb-90bb-703dacd48170")
-	)
-	(no_connect
 		(at 158.75 251.46)
 		(uuid "a8885c87-9b02-482b-b2f2-6d70e36d238d")
 	)
 	(no_connect
-		(at 387.35 116.84)
-		(uuid "c5102290-b094-4391-9beb-5d5c9cf453b6")
+		(at 367.03 104.14)
+		(uuid "ccff95ec-af14-43c2-b27c-0ccb561d85b5")
 	)
 	(no_connect
 		(at 246.38 104.14)
@@ -7703,6 +7703,10 @@
 	(no_connect
 		(at 53.34 267.97)
 		(uuid "eb3f3270-2f5f-4799-9677-1806df37958c")
+	)
+	(no_connect
+		(at 464.82 63.5)
+		(uuid "ee5ec54a-6fef-444d-b840-3636b2e798c8")
 	)
 	(bus_entry
 		(at 262.89 96.52)
@@ -8620,16 +8624,6 @@
 	)
 	(wire
 		(pts
-			(xy 389.89 109.22) (xy 387.35 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0115cfb7-46ff-4aeb-9216-ba1b90a06f16")
-	)
-	(wire
-		(pts
 			(xy 30.48 67.31) (xy 30.48 71.12)
 		)
 		(stroke
@@ -9090,6 +9084,16 @@
 	)
 	(wire
 		(pts
+			(xy 389.89 116.84) (xy 387.35 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16797355-843e-4625-b5a4-680221b9e88d")
+	)
+	(wire
+		(pts
 			(xy 30.48 59.69) (xy 30.48 58.42)
 		)
 		(stroke
@@ -9450,16 +9454,6 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 135.89) (xy 142.24 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2423372c-1fc0-4305-83df-0fac82ae6546")
-	)
-	(wire
-		(pts
 			(xy 158.75 38.1) (xy 158.75 36.83)
 		)
 		(stroke
@@ -9520,6 +9514,16 @@
 	)
 	(wire
 		(pts
+			(xy 148.59 133.35) (xy 142.24 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28907626-46a1-4442-8283-0b122ac9d836")
+	)
+	(wire
+		(pts
 			(xy 293.37 52.07) (xy 306.07 52.07)
 		)
 		(stroke
@@ -9527,6 +9531,16 @@
 			(type default)
 		)
 		(uuid "28b86b87-26d5-4777-8b6c-7b84e2fbbda3")
+	)
+	(wire
+		(pts
+			(xy 389.89 114.3) (xy 387.35 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28ecba5b-3635-4450-aa69-5e31f7ebf3e4")
 	)
 	(wire
 		(pts
@@ -9870,6 +9884,16 @@
 	)
 	(wire
 		(pts
+			(xy 364.49 114.3) (xy 367.03 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "393f18fc-7fc3-44b4-a9c3-5a44b26b605d")
+	)
+	(wire
+		(pts
 			(xy 30.48 71.12) (xy 73.66 71.12)
 		)
 		(stroke
@@ -9897,16 +9921,6 @@
 			(type default)
 		)
 		(uuid "3a7a38fb-fbcc-443e-8577-54df89330433")
-	)
-	(wire
-		(pts
-			(xy 387.35 114.3) (xy 389.89 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3ab857cc-31d4-4c80-8fe1-4a3a0b0be276")
 	)
 	(wire
 		(pts
@@ -10340,6 +10354,16 @@
 	)
 	(wire
 		(pts
+			(xy 148.59 130.81) (xy 142.24 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "537ba4c9-7751-4b1d-bb79-b85eb162f69b")
+	)
+	(wire
+		(pts
 			(xy 326.39 109.22) (xy 337.82 109.22)
 		)
 		(stroke
@@ -10357,16 +10381,6 @@
 			(type default)
 		)
 		(uuid "54a01d2e-6719-4250-b583-9b11cc8138bc")
-	)
-	(wire
-		(pts
-			(xy 389.89 101.6) (xy 387.35 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "56a603ef-8740-431c-8477-095e01f8885a")
 	)
 	(wire
 		(pts
@@ -10520,6 +10534,16 @@
 	)
 	(wire
 		(pts
+			(xy 364.49 109.22) (xy 367.03 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f9b4701-bedd-44f4-b7db-744aab19da6c")
+	)
+	(wire
+		(pts
 			(xy 374.65 83.82) (xy 374.65 82.55)
 		)
 		(stroke
@@ -10660,16 +10684,6 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 133.35) (xy 142.24 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "65778915-a9a0-4558-9609-5a6f24196ef5")
-	)
-	(wire
-		(pts
 			(xy 224.79 204.47) (xy 254 204.47)
 		)
 		(stroke
@@ -10677,16 +10691,6 @@
 			(type default)
 		)
 		(uuid "65aa72f2-0283-486a-b33a-f3dc06ec9217")
-	)
-	(wire
-		(pts
-			(xy 389.89 106.68) (xy 387.35 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "65be0614-a5ca-4036-8933-81ca8c874ee2")
 	)
 	(wire
 		(pts
@@ -10807,16 +10811,6 @@
 			(type default)
 		)
 		(uuid "6bb09a2f-1bb9-438e-b4a7-2263fb06f739")
-	)
-	(wire
-		(pts
-			(xy 364.49 101.6) (xy 367.03 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6bf94174-3c76-4ddd-8ac0-a94360c9dcc6")
 	)
 	(wire
 		(pts
@@ -11067,16 +11061,6 @@
 			(type default)
 		)
 		(uuid "7650e79f-41fb-4f73-894b-39e521b733be")
-	)
-	(wire
-		(pts
-			(xy 148.59 130.81) (xy 142.24 130.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7733ad30-e133-4c72-8f59-381d637e6639")
 	)
 	(wire
 		(pts
@@ -11910,6 +11894,16 @@
 	)
 	(wire
 		(pts
+			(xy 389.89 111.76) (xy 387.35 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1e7f466-6bdb-4f33-b1ef-60ec2038a295")
+	)
+	(wire
+		(pts
 			(xy 111.76 36.83) (xy 114.3 36.83)
 		)
 		(stroke
@@ -11990,13 +11984,13 @@
 	)
 	(wire
 		(pts
-			(xy 364.49 111.76) (xy 367.03 111.76)
+			(xy 148.59 138.43) (xy 142.24 138.43)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a7e575b9-92e2-49a3-b4a0-bb0752f11d0d")
+		(uuid "a709cbdb-b55b-45ae-bb44-283c94bdc57f")
 	)
 	(bus
 		(pts
@@ -12027,6 +12021,16 @@
 			(type default)
 		)
 		(uuid "a96746e4-e158-467c-a665-daeb0ec9d185")
+	)
+	(wire
+		(pts
+			(xy 148.59 140.97) (xy 142.24 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a97bcc61-46ef-4937-ab66-d5ce21f4c641")
 	)
 	(bus
 		(pts
@@ -12110,13 +12114,13 @@
 	)
 	(wire
 		(pts
-			(xy 361.95 114.3) (xy 367.03 114.3)
+			(xy 389.89 109.22) (xy 387.35 109.22)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "aeff5c80-625f-4be4-8625-ea8e371ac662")
+		(uuid "aedd92f3-ce5c-42c0-bcfd-f1960a3012fa")
 	)
 	(bus
 		(pts
@@ -12150,13 +12154,13 @@
 	)
 	(wire
 		(pts
-			(xy 364.49 104.14) (xy 367.03 104.14)
+			(xy 364.49 111.76) (xy 367.03 111.76)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b1723f87-47f8-4fe6-b9c8-4db6e1fd03d8")
+		(uuid "b12afee1-872e-42f3-aa41-857ce1a4dfd7")
 	)
 	(wire
 		(pts
@@ -12220,13 +12224,13 @@
 	)
 	(wire
 		(pts
-			(xy 364.49 106.68) (xy 367.03 106.68)
+			(xy 389.89 119.38) (xy 387.35 119.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b7a1473b-a390-46f8-9488-ba34cdfb8be1")
+		(uuid "b65e9db8-c7b4-4a14-8699-016df3c6839b")
 	)
 	(bus
 		(pts
@@ -12477,6 +12481,16 @@
 			(type default)
 		)
 		(uuid "c200a2b7-1f5f-4f60-881a-073c6e66fd3e")
+	)
+	(wire
+		(pts
+			(xy 148.59 135.89) (xy 142.24 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c227eae6-83d7-4cc5-8205-16c3cec0c6ac")
 	)
 	(wire
 		(pts
@@ -12790,16 +12804,6 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 140.97) (xy 142.24 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d00aed6c-2061-43bd-b028-6e3abc4520b2")
-	)
-	(wire
-		(pts
 			(xy 326.39 106.68) (xy 337.82 106.68)
 		)
 		(stroke
@@ -13090,6 +13094,16 @@
 	)
 	(wire
 		(pts
+			(xy 367.03 106.68) (xy 364.49 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dddc9cb6-900a-4535-b73a-d0e0b1977fe9")
+	)
+	(wire
+		(pts
 			(xy 168.91 45.72) (xy 168.91 48.26)
 		)
 		(stroke
@@ -13097,16 +13111,6 @@
 			(type default)
 		)
 		(uuid "de52c9aa-0536-4b9e-a776-d4c585602a5d")
-	)
-	(wire
-		(pts
-			(xy 364.49 109.22) (xy 367.03 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "de69b816-8b0f-48d4-b1c9-92bbbe954246")
 	)
 	(wire
 		(pts
@@ -13320,16 +13324,6 @@
 	)
 	(wire
 		(pts
-			(xy 389.89 111.76) (xy 387.35 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e4b54171-f496-4983-9fd0-b449ed40f520")
-	)
-	(wire
-		(pts
 			(xy 290.83 248.92) (xy 290.83 264.16)
 		)
 		(stroke
@@ -13347,6 +13341,16 @@
 			(type default)
 		)
 		(uuid "e4f43697-d86a-4162-9b53-2ba096f46051")
+	)
+	(wire
+		(pts
+			(xy 364.49 119.38) (xy 367.03 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e540a3b2-d7a0-46ef-83a7-4f743e77a61a")
 	)
 	(wire
 		(pts
@@ -13680,16 +13684,6 @@
 	)
 	(wire
 		(pts
-			(xy 389.89 104.14) (xy 387.35 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f72ac889-176d-4a51-8066-6c89574124e3")
-	)
-	(wire
-		(pts
 			(xy 41.91 58.42) (xy 41.91 59.69)
 		)
 		(stroke
@@ -13697,16 +13691,6 @@
 			(type default)
 		)
 		(uuid "f7523123-620b-42ca-ad99-5e0badf771eb")
-	)
-	(wire
-		(pts
-			(xy 148.59 138.43) (xy 142.24 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f7561e7e-078c-4474-9cfd-505a8307887c")
 	)
 	(wire
 		(pts
@@ -13797,6 +13781,26 @@
 			(type default)
 		)
 		(uuid "f9ac9f90-45a5-40db-8f23-4f7bd2ad7af7")
+	)
+	(wire
+		(pts
+			(xy 392.43 106.68) (xy 387.35 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa2c3de3-37f6-42b1-8272-daec01751232")
+	)
+	(wire
+		(pts
+			(xy 364.49 116.84) (xy 367.03 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa8a6a8c-a562-49e8-8780-853825756d8f")
 	)
 	(wire
 		(pts
@@ -14215,6 +14219,7 @@
 	)
 	(label "ADDR9"
 		(at 257.81 63.5 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14225,6 +14230,7 @@
 	)
 	(label "ADDR4"
 		(at 257.81 50.8 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14235,6 +14241,7 @@
 	)
 	(label "ADDR14"
 		(at 259.08 76.2 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14245,6 +14252,7 @@
 	)
 	(label "DATA2"
 		(at 257.81 86.36 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14255,6 +14263,7 @@
 	)
 	(label "ADDR5"
 		(at 389.89 49.53 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14265,6 +14274,7 @@
 	)
 	(label "RP_ADDR2"
 		(at 156.21 74.93 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14275,6 +14285,7 @@
 	)
 	(label "RP_DATA2"
 		(at 156.21 115.57 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14285,6 +14296,7 @@
 	)
 	(label "QSPI_SD1"
 		(at 59.69 85.09 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14295,6 +14307,7 @@
 	)
 	(label "QSPI_SD1"
 		(at 400.05 172.72 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14305,6 +14318,7 @@
 	)
 	(label "GPIO0"
 		(at 156.21 67.31 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14315,6 +14329,7 @@
 	)
 	(label "QSPI_SCLK"
 		(at 59.69 93.98 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14325,6 +14340,7 @@
 	)
 	(label "QSPI_SS"
 		(at 325.12 172.72 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14335,6 +14351,7 @@
 	)
 	(label "ADDR2"
 		(at 257.81 45.72 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14345,6 +14362,7 @@
 	)
 	(label "RP_ADDR10"
 		(at 303.53 114.3 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14355,6 +14373,7 @@
 	)
 	(label "RP_ADDR0"
 		(at 156.21 69.85 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14365,6 +14384,7 @@
 	)
 	(label "FLASH_SS"
 		(at 349.25 172.72 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14375,6 +14395,7 @@
 	)
 	(label "RP_ADDR9"
 		(at 302.26 116.84 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14385,6 +14406,7 @@
 	)
 	(label "ADDR11"
 		(at 328.93 111.76 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14395,6 +14417,7 @@
 	)
 	(label "VREG_AVDD"
 		(at 62.23 45.72 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14405,6 +14428,7 @@
 	)
 	(label "DATA6"
 		(at 328.93 46.99 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14415,6 +14439,7 @@
 	)
 	(label "DATA0"
 		(at 257.81 81.28 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14425,6 +14450,7 @@
 	)
 	(label "DATA2"
 		(at 328.93 57.15 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14435,6 +14461,7 @@
 	)
 	(label "RP_ADDR12"
 		(at 157.48 100.33 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14445,6 +14472,7 @@
 	)
 	(label "ADDR6"
 		(at 257.81 55.88 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14455,6 +14483,7 @@
 	)
 	(label "RP_ADDR13"
 		(at 157.48 102.87 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14465,6 +14494,7 @@
 	)
 	(label "ADDR6"
 		(at 389.89 46.99 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14475,6 +14505,7 @@
 	)
 	(label "ADDR0"
 		(at 257.81 40.64 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14485,6 +14516,7 @@
 	)
 	(label "QSPI_SD3"
 		(at 59.69 90.17 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14495,6 +14527,7 @@
 	)
 	(label "RP_ADDR6"
 		(at 156.21 85.09 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14505,6 +14538,7 @@
 	)
 	(label "RP_DATA1"
 		(at 303.53 59.69 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14515,6 +14549,7 @@
 	)
 	(label "QSPI_SCLK"
 		(at 347.98 236.22 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14525,6 +14560,7 @@
 	)
 	(label "RP_ADDR7"
 		(at 364.49 44.45 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14535,6 +14571,7 @@
 	)
 	(label "ADDR12"
 		(at 328.93 109.22 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14545,6 +14582,7 @@
 	)
 	(label "DATA7"
 		(at 257.81 99.06 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14555,6 +14593,7 @@
 	)
 	(label "RP_ADDR2"
 		(at 364.49 57.15 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14565,6 +14604,7 @@
 	)
 	(label "FLASH2_SS"
 		(at 349.25 231.14 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14575,6 +14615,7 @@
 	)
 	(label "DATA4"
 		(at 257.81 91.44 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14585,6 +14626,7 @@
 	)
 	(label "DATA5"
 		(at 328.93 49.53 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14595,6 +14637,7 @@
 	)
 	(label "RP_ADDR1"
 		(at 364.49 59.69 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14605,6 +14648,7 @@
 	)
 	(label "ADDR13"
 		(at 259.08 73.66 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14615,6 +14659,7 @@
 	)
 	(label "RP_ADDR7"
 		(at 156.21 87.63 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14625,6 +14670,7 @@
 	)
 	(label "QSPI_SD0"
 		(at 59.69 82.55 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14635,6 +14681,7 @@
 	)
 	(label "RP_ADDR10"
 		(at 157.48 95.25 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14645,6 +14692,7 @@
 	)
 	(label "ADDR10"
 		(at 259.08 66.04 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14655,6 +14703,7 @@
 	)
 	(label "DATA3"
 		(at 328.93 54.61 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14665,6 +14714,7 @@
 	)
 	(label "VREG_LX"
 		(at 59.69 68.58 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14675,6 +14725,7 @@
 	)
 	(label "RP_ADDR0"
 		(at 364.49 62.23 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14685,6 +14736,7 @@
 	)
 	(label "RP_DATA7"
 		(at 303.53 44.45 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14695,6 +14747,7 @@
 	)
 	(label "DATA4"
 		(at 328.93 52.07 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14705,6 +14758,7 @@
 	)
 	(label "RP_ADDR14"
 		(at 303.53 104.14 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14715,6 +14769,7 @@
 	)
 	(label "RP_DATA5"
 		(at 303.53 49.53 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14725,6 +14780,7 @@
 	)
 	(label "RP_ADDR4"
 		(at 156.21 80.01 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14735,6 +14791,7 @@
 	)
 	(label "RP_ADDR8"
 		(at 156.21 90.17 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14745,6 +14802,7 @@
 	)
 	(label "QSPI_SD2"
 		(at 400.05 177.8 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14755,6 +14813,7 @@
 	)
 	(label "QSPI_SD0"
 		(at 400.05 170.18 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14765,6 +14824,7 @@
 	)
 	(label "DATA3"
 		(at 257.81 88.9 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14775,6 +14835,7 @@
 	)
 	(label "ADDR15"
 		(at 259.08 78.74 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14785,6 +14846,7 @@
 	)
 	(label "ADDR1"
 		(at 257.81 43.18 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14795,6 +14857,7 @@
 	)
 	(label "RP_DATA4"
 		(at 156.21 120.65 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14805,6 +14868,7 @@
 	)
 	(label "DATA5"
 		(at 257.81 93.98 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14815,6 +14879,7 @@
 	)
 	(label "ADDR12"
 		(at 259.08 71.12 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14825,6 +14890,7 @@
 	)
 	(label "RP_ADDR4"
 		(at 364.49 52.07 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14835,6 +14901,7 @@
 	)
 	(label "GPIO0"
 		(at 326.39 163.83 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14845,6 +14912,7 @@
 	)
 	(label "RP_DATA7"
 		(at 156.21 128.27 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14855,6 +14923,7 @@
 	)
 	(label "ADDR15"
 		(at 328.93 101.6 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14865,6 +14934,7 @@
 	)
 	(label "-BAT"
 		(at 210.82 257.81 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14875,6 +14945,7 @@
 	)
 	(label "RP_ADDR11"
 		(at 157.48 97.79 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14885,6 +14956,7 @@
 	)
 	(label "RP_ADDR15"
 		(at 157.48 107.95 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14895,6 +14967,7 @@
 	)
 	(label "RP_ADDR11"
 		(at 303.53 111.76 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14905,6 +14978,7 @@
 	)
 	(label "QSPI_SD3"
 		(at 400.05 238.76 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14915,6 +14989,7 @@
 	)
 	(label "DATA1"
 		(at 257.81 83.82 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14925,6 +15000,7 @@
 	)
 	(label "DATA6"
 		(at 257.81 96.52 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14935,6 +15011,7 @@
 	)
 	(label "ADDR13"
 		(at 328.93 106.68 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14945,6 +15022,7 @@
 	)
 	(label "ADDR14"
 		(at 328.93 104.14 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14955,6 +15033,7 @@
 	)
 	(label "DATA7"
 		(at 328.93 44.45 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14965,6 +15044,7 @@
 	)
 	(label "ADDR4"
 		(at 389.89 52.07 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14975,6 +15055,7 @@
 	)
 	(label "RP_DATA2"
 		(at 303.53 57.15 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14985,6 +15066,7 @@
 	)
 	(label "QSPI_SS"
 		(at 59.69 78.74 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14995,6 +15077,7 @@
 	)
 	(label "ADDR8"
 		(at 328.93 119.38 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15005,6 +15088,7 @@
 	)
 	(label "DATA0"
 		(at 328.93 62.23 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15015,6 +15099,7 @@
 	)
 	(label "ADDR0"
 		(at 389.89 62.23 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15025,6 +15110,7 @@
 	)
 	(label "RP_DATA5"
 		(at 156.21 123.19 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15035,6 +15121,7 @@
 	)
 	(label "QSPI_SD2"
 		(at 59.69 87.63 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15045,6 +15132,7 @@
 	)
 	(label "RP_ADDR14"
 		(at 157.48 105.41 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15055,6 +15143,7 @@
 	)
 	(label "ADDR1"
 		(at 389.89 59.69 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15065,6 +15154,7 @@
 	)
 	(label "QSPI_SD3"
 		(at 400.05 180.34 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15075,6 +15165,7 @@
 	)
 	(label "ADDR7"
 		(at 257.81 58.42 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15085,6 +15176,7 @@
 	)
 	(label "ADDR5"
 		(at 257.81 53.34 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15095,6 +15187,7 @@
 	)
 	(label "+VBAT"
 		(at 210.82 255.27 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15105,6 +15198,7 @@
 	)
 	(label "RP_DATA6"
 		(at 303.53 46.99 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15115,6 +15209,7 @@
 	)
 	(label "RP_DATA4"
 		(at 303.53 52.07 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15125,6 +15220,7 @@
 	)
 	(label "RP_ADDR3"
 		(at 364.49 54.61 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15135,6 +15231,7 @@
 	)
 	(label "RP_ADDR3"
 		(at 156.21 77.47 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15145,6 +15242,7 @@
 	)
 	(label "GPIO0"
 		(at 326.39 231.14 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15155,6 +15253,7 @@
 	)
 	(label "RP_DATA1"
 		(at 156.21 113.03 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15165,6 +15264,7 @@
 	)
 	(label "RP_ADDR5"
 		(at 364.49 49.53 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15175,6 +15275,7 @@
 	)
 	(label "RP_ADDR8"
 		(at 302.26 119.38 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15185,6 +15286,7 @@
 	)
 	(label "ADDR8"
 		(at 257.81 60.96 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15195,6 +15297,7 @@
 	)
 	(label "RP_DATA0"
 		(at 303.53 62.23 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15205,6 +15308,7 @@
 	)
 	(label "RP_DATA3"
 		(at 303.53 54.61 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15215,6 +15319,7 @@
 	)
 	(label "RP_ADDR1"
 		(at 156.21 72.39 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15225,6 +15330,7 @@
 	)
 	(label "RP_DATA3"
 		(at 156.21 118.11 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15235,6 +15341,7 @@
 	)
 	(label "ADDR7"
 		(at 389.89 44.45 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15245,6 +15352,7 @@
 	)
 	(label "ADDR10"
 		(at 328.93 114.3 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15255,6 +15363,7 @@
 	)
 	(label "ADDR2"
 		(at 389.89 57.15 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15265,6 +15374,7 @@
 	)
 	(label "RP_ADDR15"
 		(at 303.53 101.6 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15275,6 +15385,7 @@
 	)
 	(label "QSPI_SD2"
 		(at 400.05 236.22 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15285,6 +15396,7 @@
 	)
 	(label "RP_ADDR5"
 		(at 156.21 82.55 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15295,6 +15407,7 @@
 	)
 	(label "QSPI_SD0"
 		(at 400.05 228.6 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15305,6 +15418,7 @@
 	)
 	(label "RP_ADDR6"
 		(at 364.49 46.99 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15315,6 +15429,7 @@
 	)
 	(label "RP_ADDR12"
 		(at 303.53 109.22 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15325,6 +15440,7 @@
 	)
 	(label "ADDR11"
 		(at 259.08 68.58 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15335,6 +15451,7 @@
 	)
 	(label "QSPI_SCLK"
 		(at 349.25 177.8 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15345,6 +15462,7 @@
 	)
 	(label "RP_ADDR9"
 		(at 156.21 92.71 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15355,6 +15473,7 @@
 	)
 	(label "RP_ADDR13"
 		(at 303.53 106.68 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15365,6 +15484,7 @@
 	)
 	(label "RP_DATA0"
 		(at 156.21 110.49 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15375,6 +15495,7 @@
 	)
 	(label "ADDR3"
 		(at 389.89 54.61 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15385,6 +15506,7 @@
 	)
 	(label "ADDR9"
 		(at 328.93 116.84 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15395,6 +15517,7 @@
 	)
 	(label "DATA1"
 		(at 328.93 59.69 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15405,6 +15528,7 @@
 	)
 	(label "QSPI_SD1"
 		(at 400.05 231.14 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15415,6 +15539,7 @@
 	)
 	(label "ADDR3"
 		(at 257.81 48.26 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15425,6 +15550,7 @@
 	)
 	(label "RP_DATA6"
 		(at 156.21 125.73 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -15565,31 +15691,9 @@
 			)
 		)
 	)
-	(global_label "RD"
+	(global_label "WR"
 		(shape bidirectional)
-		(at 364.49 106.68 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "13dfb895-643c-4d62-92ed-5173c74525e7")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 358.6665 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "RP_RD"
-		(shape bidirectional)
-		(at 148.59 135.89 0)
+		(at 389.89 116.84 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -15597,9 +15701,9 @@
 			)
 			(justify left)
 		)
-		(uuid "25a1f01e-f9ac-48da-aa29-412267b8bcc5")
+		(uuid "2222490d-7c49-41ac-bd83-efa162621729")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 157.9211 135.89 0)
+			(at 395.8949 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15649,6 +15753,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RP_RST"
+		(shape bidirectional)
+		(at 148.59 130.81 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "277f77e6-b6b4-4dd5-b1c9-b27e1b64baee")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 158.8282 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -15831,7 +15957,7 @@
 	)
 	(global_label "RP_RD"
 		(shape bidirectional)
-		(at 389.89 106.68 0)
+		(at 148.59 135.89 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -15839,31 +15965,9 @@
 			)
 			(justify left)
 		)
-		(uuid "442a869c-6fb0-40c5-a8d5-211c852b5d3d")
+		(uuid "455a3b05-1b57-4931-9905-78935ab9a2ad")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 399.2211 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "RP_WR"
-		(shape bidirectional)
-		(at 389.89 104.14 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "452c9021-462a-4bd4-b301-3a0087f33726")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 399.4025 104.14 0)
+			(at 157.9211 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15895,9 +15999,31 @@
 			)
 		)
 	)
-	(global_label "RP_RST"
+	(global_label "RP_CS"
 		(shape bidirectional)
-		(at 148.59 140.97 0)
+		(at 364.49 111.76 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "530590be-7031-408c-982d-750733820a1c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 355.2194 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RST"
+		(shape bidirectional)
+		(at 389.89 109.22 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -15905,9 +16031,9 @@
 			)
 			(justify left)
 		)
-		(uuid "53bad179-506b-4457-8859-dd7cc8ece0ea")
+		(uuid "540a6211-ad4c-43e1-8b9b-34a529277c46")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 158.8282 140.97 0)
+			(at 396.6206 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15961,28 +16087,6 @@
 			)
 		)
 	)
-	(global_label "RP_POWER"
-		(shape input)
-		(at 389.89 114.3 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "56ff6681-e0d8-4cad-a693-eda99bb95a3c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 402.1995 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "CLK"
 		(shape bidirectional)
 		(at 246.38 30.48 0)
@@ -15996,6 +16100,50 @@
 		(uuid "57167b54-46e3-4a2b-96a5-ff40607c00af")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 253.2316 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RP_CLK"
+		(shape bidirectional)
+		(at 364.49 119.38 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5742c9d5-9d02-4cb3-8848-4bb7e994c050")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 354.1308 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RD"
+		(shape bidirectional)
+		(at 389.89 114.3 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "57f7e1ce-a9d5-4d3a-938f-66f02264e187")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 395.7135 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16049,9 +16197,9 @@
 			)
 		)
 	)
-	(global_label "RP_CLK"
+	(global_label "CS"
 		(shape bidirectional)
-		(at 148.59 130.81 0)
+		(at 389.89 111.76 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -16059,9 +16207,9 @@
 			)
 			(justify left)
 		)
-		(uuid "626d361b-0284-4c37-8877-c14c3840bb60")
+		(uuid "63a5490d-5422-4fe0-8047-b8a1ef9a9663")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 158.9492 130.81 0)
+			(at 395.653 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16089,6 +16237,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RP_CLK"
+		(shape bidirectional)
+		(at 148.59 140.97 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6fe4c099-e7f5-4e90-91ad-fcae6c679bba")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 158.9492 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -16137,9 +16307,9 @@
 			)
 		)
 	)
-	(global_label "RP_CS"
+	(global_label "CLK"
 		(shape bidirectional)
-		(at 148.59 138.43 0)
+		(at 389.89 119.38 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -16147,9 +16317,9 @@
 			)
 			(justify left)
 		)
-		(uuid "7fdb411e-88ea-42fc-88d3-08af799ae55e")
+		(uuid "7df1227e-67e1-4274-8193-76e94f5b6565")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 157.8606 138.43 0)
+			(at 396.7416 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16247,50 +16417,6 @@
 			)
 		)
 	)
-	(global_label "CS"
-		(shape bidirectional)
-		(at 364.49 109.22 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "92609500-c5f1-45de-91cf-a11a8b2c5b19")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 358.727 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "RP_CS"
-		(shape bidirectional)
-		(at 389.89 109.22 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "97a641b0-de93-4e87-ac51-54e9d55019e2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 399.1606 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "USB_D+"
 		(shape input)
 		(at 158.75 57.15 0)
@@ -16379,6 +16505,28 @@
 			)
 		)
 	)
+	(global_label "RP_POWER"
+		(shape input)
+		(at 364.49 106.68 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b5531f23-39b8-49ee-961a-6b2b56a2a4a6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 352.1805 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "RTC_SDA"
 		(shape bidirectional)
 		(at 148.59 143.51 0)
@@ -16392,50 +16540,6 @@
 		(uuid "b6c8bde0-f4b8-4587-aa12-25eda039def2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 159.9168 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "RST"
-		(shape bidirectional)
-		(at 364.49 111.76 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "bdef5bf4-27fb-4f8a-b453-b9c0733fb8eb")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 357.7594 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "RP_WR"
-		(shape bidirectional)
-		(at 148.59 133.35 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "beae4487-bc95-473e-8947-2c6aefec9aaa")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 158.1025 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16467,9 +16571,9 @@
 			)
 		)
 	)
-	(global_label "WR"
+	(global_label "RP_WR"
 		(shape bidirectional)
-		(at 364.49 104.14 180)
+		(at 364.49 116.84 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -16477,9 +16581,9 @@
 			)
 			(justify right)
 		)
-		(uuid "c505a241-2347-46ed-8fbc-333181ce9482")
+		(uuid "bf6e0b8c-4a3c-47ba-8930-b8be3c69099e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 358.4851 104.14 0)
+			(at 354.9775 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16502,28 +16606,6 @@
 		(uuid "c7afa57c-a069-4a76-85db-f59e17c56204")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 157.9362 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "RP_CLK"
-		(shape bidirectional)
-		(at 389.89 101.6 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c7c837d8-4d85-4a0e-b3d7-2ab59e33ed5d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 400.2492 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16599,6 +16681,28 @@
 			)
 		)
 	)
+	(global_label "RP_RST"
+		(shape bidirectional)
+		(at 364.49 109.22 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "dac963cb-efbf-4cdb-9711-20943131a443")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 354.2518 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "IMU_SDA"
 		(shape bidirectional)
 		(at 127 261.62 180)
@@ -16621,9 +16725,31 @@
 			)
 		)
 	)
-	(global_label "CLK"
+	(global_label "RP_WR"
 		(shape bidirectional)
-		(at 364.49 101.6 180)
+		(at 148.59 138.43 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ea229a58-091d-4907-8e36-70bc357b3ff9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 158.1025 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RP_RD"
+		(shape bidirectional)
+		(at 364.49 114.3 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -16631,9 +16757,9 @@
 			)
 			(justify right)
 		)
-		(uuid "ef7c2e85-84d1-4647-8911-857b2d5e4414")
+		(uuid "ede44bf2-efed-478e-bb05-d53f06257859")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 357.6384 101.6 0)
+			(at 355.1589 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16643,9 +16769,9 @@
 			)
 		)
 	)
-	(global_label "RP_RST"
+	(global_label "RP_CS"
 		(shape bidirectional)
-		(at 389.89 111.76 0)
+		(at 148.59 133.35 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -16653,9 +16779,9 @@
 			)
 			(justify left)
 		)
-		(uuid "fdb8914f-eca6-4870-ad6d-63ce351904b2")
+		(uuid "f0a46da0-4880-40cc-939f-7331af7ab314")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 400.1282 111.76 0)
+			(at 157.8606 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16692,7 +16818,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 51.7652 31.75 0)
 			(effects
 				(font
@@ -16825,7 +16951,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 280.67 265.1252 0)
 			(effects
 				(font
@@ -17156,7 +17282,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 339.09 174.498 90)
 			(effects
 				(font
@@ -17225,7 +17351,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 301.2948 83.82 0)
 			(effects
 				(font
@@ -17360,7 +17486,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 197.8152 260.35 0)
 			(effects
 				(font
@@ -17625,7 +17751,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 69.85 106.172 90)
 			(effects
 				(font
@@ -17828,7 +17954,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 180.0352 45.72 0)
 			(effects
 				(font
@@ -18159,7 +18285,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 230.8352 171.45 0)
 			(effects
 				(font
@@ -18492,7 +18618,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 83.312 251.46 90)
 			(effects
 				(font
@@ -18972,7 +19098,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 362.2548 26.67 0)
 			(effects
 				(font
@@ -19042,7 +19168,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 341.63 232.918 90)
 			(effects
 				(font
@@ -19662,7 +19788,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 207.9752 45.72 0)
 			(effects
 				(font
@@ -19732,7 +19858,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 61.9252 54.61 0)
 			(effects
 				(font
@@ -19801,7 +19927,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 230.632 223.52 90)
 			(effects
 				(font
@@ -19940,7 +20066,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_XKB_TS-1187A"
 			(at 172.72 166.37 0)
 			(effects
 				(font
@@ -20007,7 +20133,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 223.012 220.98 90)
 			(effects
 				(font
@@ -20691,7 +20817,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 327.9648 85.09 0)
 			(effects
 				(font
@@ -20758,7 +20884,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 151.13 55.372 90)
 			(effects
 				(font
@@ -20957,7 +21083,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 74.6252 31.75 0)
 			(effects
 				(font
@@ -21159,7 +21285,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 381.9652 161.29 0)
 			(effects
 				(font
@@ -21228,7 +21354,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 265.43 203.5048 0)
 			(effects
 				(font
@@ -21297,7 +21423,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 388.9248 85.09 0)
 			(effects
 				(font
@@ -21431,7 +21557,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 150.8252 45.72 0)
 			(effects
 				(font
@@ -21629,7 +21755,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 151.13 57.912 90)
 			(effects
 				(font
@@ -21828,7 +21954,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 388.9248 27.94 0)
 			(effects
 				(font
@@ -22178,7 +22304,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 33.02 113.9952 0)
 			(effects
 				(font
@@ -22644,7 +22770,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 133.0452 45.72 0)
 			(effects
 				(font
@@ -22711,7 +22837,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 267.208 184.15 90)
 			(effects
 				(font
@@ -22782,7 +22908,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 362.458 220.98 90)
 			(effects
 				(font
@@ -22851,7 +22977,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 310.8452 223.52 0)
 			(effects
 				(font
@@ -22921,7 +23047,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 243.5352 171.45 0)
 			(effects
 				(font
@@ -23053,7 +23179,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 223.012 213.36 90)
 			(effects
 				(font
@@ -23122,7 +23248,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 190.1952 45.72 0)
 			(effects
 				(font
@@ -23256,7 +23382,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 63.1952 31.75 0)
 			(effects
 				(font
@@ -23390,7 +23516,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 159.7152 45.72 0)
 			(effects
 				(font
@@ -23459,7 +23585,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 49.53 47.498 90)
 			(effects
 				(font
@@ -23594,7 +23720,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "RP2350_80QFN_minimal:C_0402_1005Metric_small_pads"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 31.4452 67.31 0)
 			(effects
 				(font
@@ -23663,7 +23789,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 33.02 103.8352 0)
 			(effects
 				(font
@@ -23732,7 +23858,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 167.3352 247.65 0)
 			(effects
 				(font
@@ -23866,7 +23992,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 141.9352 45.72 0)
 			(effects
 				(font
@@ -24075,7 +24201,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 339.09 165.608 90)
 			(effects
 				(font
@@ -24252,6 +24378,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:VCC")
+		(at 392.43 106.68 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c23b1c27-9896-43a6-9fa9-9834e4534904")
+		(property "Reference" "#PWR048"
+			(at 388.62 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V_CART"
+			(at 401.066 106.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 392.43 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 392.43 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 392.43 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8403b384-e840-4b79-b5a7-c78f0b9dd0d2")
+		)
+		(instances
+			(project "ChillyCart"
+				(path "/e91caeff-59fc-4e40-a70b-f4932680fb86"
+					(reference "#PWR048")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 58.42 107.95 0)
 		(unit 1)
@@ -24343,7 +24534,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 327.9648 27.94 0)
 			(effects
 				(font
@@ -24543,7 +24734,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 361.188 162.56 90)
 			(effects
 				(font
@@ -24977,71 +25168,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:VCC")
-		(at 361.95 114.3 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "de5807e1-2ef4-40b9-8ede-1c542f211d8a")
-		(property "Reference" "#PWR048"
-			(at 365.76 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V_CART"
-			(at 353.314 114.3 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 361.95 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 361.95 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 361.95 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6885645c-fc5b-4cd8-b4cf-808200f331e9")
-		)
-		(instances
-			(project "ChillyCart"
-				(path "/e91caeff-59fc-4e40-a70b-f4932680fb86"
-					(reference "#PWR048")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3V3")
 		(at 236.22 163.83 0)
 		(unit 1)
@@ -25199,7 +25325,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 169.8752 45.72 0)
 			(effects
 				(font
@@ -25839,7 +25965,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 288.29 247.9548 0)
 			(effects
 				(font
@@ -25909,7 +26035,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 381.9652 219.71 0)
 			(effects
 				(font
@@ -26044,7 +26170,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 199.0852 45.72 0)
 			(effects
 				(font
@@ -26192,7 +26318,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 275.2852 223.52 0)
 			(effects
 				(font
@@ -26392,7 +26518,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
 			(at 75.692 251.46 90)
 			(effects
 				(font
@@ -26618,7 +26744,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "RP2350_80QFN_minimal:C_0402_1005Metric_small_pads"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 20.0152 67.31 0)
 			(effects
 				(font
@@ -26687,7 +26813,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 362.2548 83.82 0)
 			(effects
 				(font
@@ -26756,7 +26882,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
 			(at 301.2948 26.67 0)
 			(effects
 				(font
