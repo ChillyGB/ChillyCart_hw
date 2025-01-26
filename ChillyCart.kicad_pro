@@ -65,7 +65,7 @@
       },
       "rule_severities": {
         "annular_width": "error",
-        "clearance": "error",
+        "clearance": "warning",
         "connection_width": "warning",
         "copper_edge_clearance": "error",
         "copper_sliver": "warning",
@@ -119,7 +119,7 @@
       "rule_severitieslegacy_no_courtyard_defined": false,
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.0,
+        "min_clearance": 0.1,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.0,
         "min_hole_clearance": 0.0,
@@ -255,11 +255,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      "power_pin_not_driven|2679700|1701800|6c2e44ae-ae2c-4d14-8c8f-7370a43a6092|00000000-0000-0000-0000-000000000000|/e91caeff-59fc-4e40-a70b-f4932680fb86|/e91caeff-59fc-4e40-a70b-f4932680fb86|",
-      "power_pin_not_driven|736600|609600|5680f7ef-90f6-4437-bc90-2480cd5f8539|00000000-0000-0000-0000-000000000000|/e91caeff-59fc-4e40-a70b-f4932680fb86|/e91caeff-59fc-4e40-a70b-f4932680fb86|",
-      "power_pin_not_driven|876300|495300|356de5c3-1c4b-4fe2-beff-572be529706a|00000000-0000-0000-0000-000000000000|/e91caeff-59fc-4e40-a70b-f4932680fb86|/e91caeff-59fc-4e40-a70b-f4932680fb86|"
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
@@ -638,7 +634,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "out/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",

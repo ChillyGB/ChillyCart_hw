@@ -1,1 +1,4 @@
 ChillyCart-backups/
+*.lck
+out/
+out.zip
