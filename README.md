@@ -1,4 +1,5 @@
 # ChillyCart (hardware)
+![image](https://github.com/user-attachments/assets/73d4df31-ace7-4c97-833a-72e74ceb99e2)
 
 A simple rp2350 based gameboy(color) cartdrige complete with:
 - SPI SD card
